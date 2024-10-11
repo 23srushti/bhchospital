@@ -131,7 +131,7 @@ header .fa-bars {
 /* home images  */
 .home .row .images img {
   height: 70vh;
-  width: auto;
+  width: fit-content;
 }
 
 /* home heading  */
